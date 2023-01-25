@@ -102,3 +102,4 @@ let g:CloseTagEnableBuffer=1
 set tw=80
 syntax enable
 set so=12
+set ts=4
